@@ -2,6 +2,7 @@ package com.example.leetcodetasks.done.convertSortedArrayToBinarySearchTree108;
 
 /**
  * Time Complexity O(n)
+ * Space complexity O(n)
  */
 public class convertSortedArrayToBinarySearchTree108 {
     public TreeNode sortedArrayToBST(int[] nums) {

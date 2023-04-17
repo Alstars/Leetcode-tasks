@@ -2,6 +2,7 @@ package com.example.leetcodetasks.done.ValidateBinarySearchTree98;
 
 /**
  * Time complexity O(n) worst-case
+ * Space complexity O(1)
  */
 public class ValidateBinarySearchTree98 {
     public boolean isValidBST(TreeNode root) {

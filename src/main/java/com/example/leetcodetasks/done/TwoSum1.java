@@ -4,6 +4,7 @@ import java.util.HashMap;
 
 /**
  * Time Complexity O(n)
+ * Space complexity O(n)
  */
 public class TwoSum1 {
     public int[] twoSum(int[] nums, int target) {

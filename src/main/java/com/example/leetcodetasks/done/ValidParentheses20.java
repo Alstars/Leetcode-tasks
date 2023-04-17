@@ -5,6 +5,7 @@ import java.util.Stack;
 
 /**
  * Time Complexity O(n)
+ * Space complexity O(1)
  */
 public class ValidParentheses20 {
     public boolean isValid(String s) {

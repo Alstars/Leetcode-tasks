@@ -2,6 +2,7 @@ package com.example.leetcodetasks.done;
 
 /**
  * Time Complexity O(logn)
+ * Space complexity O(1)
  */
 public class SearchInRotatedSortedArray33 {
     public int search(int[] nums, int target) {

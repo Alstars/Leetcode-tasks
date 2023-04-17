@@ -2,6 +2,7 @@ package com.example.leetcodetasks.done;
 
 /**
  * Time Complexity O(n)
+ * Space complexity O(n)
  */
 public class RemovingStars2390 {
 

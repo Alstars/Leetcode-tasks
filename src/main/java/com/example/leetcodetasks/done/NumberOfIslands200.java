@@ -2,6 +2,7 @@ package com.example.leetcodetasks.done;
 
 /**
  * Time Complexity O(n+k)
+ * Space complexity O(1)
  */
 public class NumberOfIslands200 {
     private int n;

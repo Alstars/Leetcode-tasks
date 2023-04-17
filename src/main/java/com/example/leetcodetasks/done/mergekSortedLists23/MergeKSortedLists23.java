@@ -3,6 +3,7 @@ package com.example.leetcodetasks.done.mergekSortedLists23;
 
 /**
  * Time Complexity O(n(log(k)))
+ * Space complexity O(logn)
  */
 public class MergeKSortedLists23 {
     public ListNode mergeKLists(ListNode[] lists) {

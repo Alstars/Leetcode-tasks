@@ -2,6 +2,7 @@ package com.example.leetcodetasks.done;
 
 /**
  * Time Complexity O(n)
+ * Space complexity O(1)
  */
 public class TrappingRainWater42 {
     public int trap(int[] height) {
